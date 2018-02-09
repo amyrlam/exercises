@@ -11,3 +11,4 @@
 
 ## and moar
 * Homebrew https://github.com/Homebrew/brew/blob/master/docs/FAQ.md
+* [my .bash_profile](.bash_profile)

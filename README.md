@@ -8,3 +8,6 @@
 
 ## Regex
 * RegExr https://regexr.com/
+
+## and moar
+* Homebrew https://github.com/Homebrew/brew/blob/master/docs/FAQ.md

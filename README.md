@@ -2,6 +2,7 @@
 
 ## JavaScript
 * Codecademy - Introduction to JavaScript https://www.codecademy.com/learn/introduction-to-javascript
+* Eloquent JavaScript - 3rd edition https://eloquentjavascript.net/3rd_edition/
 
 ## Dev Tools
 * Code School - Discover DevTools http://discover-devtools.codeschool.com
@@ -11,4 +12,4 @@
 
 ## and moar
 * Homebrew https://github.com/Homebrew/brew/blob/master/docs/FAQ.md
-* [my .bash_profile](.bash_profile)
+* My [.bash_profile](.bash_profile)

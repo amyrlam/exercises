@@ -12,5 +12,5 @@
 
 ## and moar
 * Homebrew https://github.com/Homebrew/brew/blob/master/docs/FAQ.md
-* My [.bash_profile](.bash_profile)
+* My [`.bash_profile`](.bash_profile)
 * `.gitignore_global` http://egorsmirnov.me/2015/05/04/global-gitignore-file.html

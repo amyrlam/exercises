@@ -5,6 +5,7 @@
 * Eloquent JavaScript - 3rd edition https://eloquentjavascript.net/3rd_edition/
 
 ## Ember
+* How to learn EmberJS in a hurry https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0
 * Rock and Roll with Ember.js 3 https://balinterdi.com/rock-and-roll-with-emberjs/
 * Ember Map https://embermap.com/
 

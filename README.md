@@ -10,7 +10,7 @@
 * Ember Map https://embermap.com/
 
 ## Computer Science
-* base.cs on Medium https://medium.com/basecs/archive
+* base.cs on Medium https://github.com/vaidehijoshi/basecs-series
 * base.cs Podcast https://www.codenewbie.org/basecs
 * base.cs Video https://dev.to/t/basecs
 * Interview Cake https://www.interviewcake.com/

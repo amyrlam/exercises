@@ -32,3 +32,8 @@
 * iTerm2 https://www.iterm2.com/
 * GitX-dev http://rowanj.github.io/gitx/
 * NVM https://github.com/creationix/nvm
+* 1Password https://1password.com/
+* Ember Inspector https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi
+* JSON Formatter https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
+* ColorZilla https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+* `open .` http://osxdaily.com/2009/11/30/open-current-folder-in-finder-from-the-terminal/

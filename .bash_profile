@@ -3,7 +3,7 @@ export NVM_DIR="/Users/alam/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-# http://code-worrier.com/blog/autocomplete-git/
+# Download script, then https://medium.com/qa-engineering-automation/autocomplete-git-commands-and-branch-names-in-terminal-on-mac-os-x-4e0beac0388a
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
 fi

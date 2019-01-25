@@ -39,4 +39,4 @@
 * `open .` http://osxdaily.com/2009/11/30/open-current-folder-in-finder-from-the-terminal/
 * Mac: How to change your computer name https://9to5mac.com/2018/06/20/mac-how-to-change-your-computer-name/
 * fliqlo https://fliqlo.com/
-# https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+* https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases

@@ -28,6 +28,7 @@
 ## and moar
 * Homebrew https://github.com/Homebrew/brew/blob/master/docs/FAQ.md
 * My [`.bash_profile`](.bash_profile)
+* My [`.gitconfig`](.gitconfig)
 * `.gitignore_global` http://egorsmirnov.me/2015/05/04/global-gitignore-file.html
 * iTerm2 https://www.iterm2.com/
 * GitX-dev http://rowanj.github.io/gitx/

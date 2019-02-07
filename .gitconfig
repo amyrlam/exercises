@@ -1,0 +1,11 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Amy Lam
+	email = <email>
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[push]
+	default = current
